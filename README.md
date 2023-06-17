@@ -19,7 +19,7 @@ Aqui você vai encontrar um pouco dos cursos que estou fazendo, os projetos real
 
  <div>
   <a href="https://github.com/alinelombardi">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alinelombardi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alinelombardi&show_icons=true&theme=radical&include_all_commits=trues&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinelombardi&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
