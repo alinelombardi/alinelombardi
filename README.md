@@ -4,20 +4,20 @@ Estou em processo de transição de carreira e vou contar um pouco da minha hist
 
 Sempre trabalhei na área administrativa e meu primeiro contato com desenvolvimento foi com o VBA (Visual Basic for Applications), automatizando minhas planilhas.
 
-Com isso, vi que realmente estava na área errada e deixei minha paixão por tecnologia falar mais alto. Iniciei um curso de Desenvolvedor de Sistemas no Senac - Campinas/SP, onde tive contato com banco de dados (MySql) e C#. O curso durou 3 meses e eu queria mais.
+Com isso, vi que realmente estava na área errada e deixei minha paixão por tecnologia falar mais alto. Iniciei um curso de Desenvolvedor de Sistemas no Senac - Campinas/SP, onde tive contato com banco de dados (MySQL) e C#. O curso durou 3 meses e eu queria mais.
 
-Como nem sempre a vida nos traz e o que queremos, mas o que precisamos aprender, tive alguns contratempos, perdas e mudanças radicais que adiaram meu sonho por um tempo. Um certo dia, rodando a internet me inscrevi em um curso (mais um, nessa época já tinha realizo a inscrições em vários e não cheguei a iniciar nenhum), mas esse resolvi que faria diferente e foi a melhor decisão.
+Como nem sempre a vida nos traz o que queremos, mas o que precisamos aprender, tive alguns contratempos, perdas e mudanças radicais que adiaram meu sonho por um tempo. Um certo dia, navegando na internet, me inscrevi em um curso (mais um, nessa época já tinha realizado inscrições em vários e não cheguei a iniciar nenhum), mas dessa vez resolvi que faria diferente e foi a melhor decisão.
 
-Entrei no mundo dos chatbos e fui gostando cada vez mais, tive contato com JavaScript, Node, APIs e a cada dia me encanto mais. 
-Sou estudante de Desenvolvimento de sistemas, onde estou tendo contato com Java, PHP, Javascript, CSS, HTML e banco de dados.
+Entrei no mundo dos chatbots e fui gostando cada vez mais, tive contato com JavaScript, Node.js, APIs e a cada dia me encanto mais. Sou estudante de Desenvolvimento de Sistemas, onde estou tendo contato com Java, PHP, JavaScript, CSS, HTML e banco de dados.
 
-Meu objetivo é ser uma desenvolvedora full Stack e ajudar pessoas que queiram realizar a transição de carreira para área tecnologica, estou estudando muito e dedicando tempo ao desenvolvimento de conteúdo que em breve será lançado com este tema.
+Meu objetivo é ser uma desenvolvedora full-stack e ajudar pessoas que queiram realizar a transição de carreira para área tecnológica. Estou estudando muito e dedicando tempo ao desenvolvimento de conteúdo que em breve será lançado com este tema.
 
-Aqui você encontrará informações sobre os cursos que estou fazendo, bem como os projetos em andamento e concluídos. Atualmente, estou participando da formação "Programação Web do Zero ao Avançado", ministrado pelo [ElasNaTech](https://jabrasil.org.br/elasnatech23/), e também da formação "Desenvolvimento de Software - com foco BackEnd", oferecida pela [Cubos Academy em parceria com o IFood.](https://www.cubos.academy/lp/1000bolsasifood#curso)
+Aqui você encontrará informações sobre os cursos que estou fazendo, bem como os projetos em andamento e concluídos. Atualmente, estou participando da formação "Programação Web do Zero ao Avançado", ministrado pelo [ElasNaTech](https://jabrasil.org.br/elasnatech23/), da formação "Desenvolvimento de Software - com foco Backend", oferecida pela [Cubos Academy em parceria com o IFood.](https://www.cubos.academy/lp/1000bolsasifood#curso), e também, do curso Bacharelado em Tecnologia da Informação que iniciei em 04/2023 na Univesp.
 
 </br>
 
  <div>
+  
   <a href="https://github.com/alinelombardi">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alinelombardi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinelombardi&layout=compact&langs_count=7&theme=radical"/>
