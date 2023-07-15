@@ -12,7 +12,7 @@ Entrei no mundo dos chatbots e fui gostando cada vez mais, tive contato com Java
 
 Meu objetivo é ser uma desenvolvedora full-stack e ajudar pessoas que queiram realizar a transição de carreira para área tecnológica. Estou estudando muito e dedicando tempo ao desenvolvimento de conteúdo que em breve será lançado com este tema.
 
-Aqui você encontrará informações sobre os cursos que estou fazendo, bem como os projetos em andamento e concluídos. Atualmente, estou participando da formação "Programação Web do Zero ao Avançado", ministrado pelo [ElasNaTech](https://jabrasil.org.br/elasnatech23/), da formação "Desenvolvimento de Software - com foco Backend", oferecida pela [Cubos Academy em parceria com o IFood.](https://www.cubos.academy/lp/1000bolsasifood#curso), e também, do curso Bacharelado em Tecnologia da Informação que iniciei em 04/2023 na Univesp.
+Aqui você encontrará informações sobre os cursos que estou fazendo, bem como os projetos em andamento e concluídos. Atualmente, estou participando da formação "Programação Web do Zero ao Avançado", ministrado pelo [ElasNaTech](https://jabrasil.org.br/elasnatech23/), da formação "Desenvolvimento de Software - com foco Backend", oferecida pela [Cubos Academy em parceria com o IFood.](https://www.cubos.academy/lp/1000bolsasifood#curso), e também, do curso Bacharelado em Tecnologia da Informação que iniciei em 07/2023 na Univesp.
 
 </br>
 
