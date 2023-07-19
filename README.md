@@ -8,7 +8,7 @@ Com isso, vi que realmente estava na área errada e deixei minha paixão por tec
 
 Como nem sempre a vida nos traz o que queremos, mas o que precisamos aprender, tive alguns contratempos, perdas e mudanças radicais que adiaram meu sonho por um tempo. Um certo dia, navegando na internet, me inscrevi em um curso (mais um, nessa época já tinha realizado inscrições em vários e não cheguei a iniciar nenhum), mas dessa vez resolvi que faria diferente e foi a melhor decisão.
 
-Entrei no mundo dos chatbots e fui gostando cada vez mais, tive contato com JavaScript, Node.js, APIs e a cada dia me encanto mais. Sou estudante de Desenvolvimento de Sistemas, onde estou tendo contato com Java, PHP, JavaScript, CSS, HTML e banco de dados.
+Entrei no mundo dos chatbots e fui gostando cada vez mais, tive contato com JavaScript, Node.js, APIs e a cada dia me encanto mais. 
 
 Meu objetivo é ser uma desenvolvedora full-stack e ajudar pessoas que queiram realizar a transição de carreira para área tecnológica. Estou estudando muito e dedicando tempo ao desenvolvimento de conteúdo que em breve será lançado com este tema.
 
